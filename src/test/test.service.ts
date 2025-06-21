@@ -9,7 +9,7 @@ export class TestService {
   }
 
   findAll() {
-    return `This action returns all test`;
+    return `update test`;
   }
 
   findOne(id: number) {
