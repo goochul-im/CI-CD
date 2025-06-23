@@ -9,7 +9,7 @@ export class TestService {
   }
 
   findAll() {
-    return `update test !!`;
+    return `test 2025/06/23`;
   }
 
   findOne(id: number) {
