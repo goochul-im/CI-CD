@@ -6,7 +6,7 @@ on:
 
 env:
   AWS_REGION: ap-northeast-2
-  S3_BUCKET_NAME: code-deploy-prac-bucket
+  S3_BUCKET_NAME: bucket-remotion
   CODE_DEPLOY_APPLICATION_NAME: aws_codedeploy_practice
   CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: practice
 
